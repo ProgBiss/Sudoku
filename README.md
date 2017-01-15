@@ -18,7 +18,7 @@ INSTALLATION
 Sudoku game with some "hard-coded" grid which is possible to save and charge your game.
 Game in console mode programmed in Python. He was programmed at our 1st college semester, so the code is far from being perfect.
 The instructions are in the menu, but here's a link who explain the rules : http://www.sudokuessentials.com/how_to_play_sudoku.html
-Arrows keys, spacebar, return and enter are the only button you need.
+Arrows keys, spacebar, return and enter are the only buttons you need.
 
 We used Colorama librairy who was made by Jonothan Hartley in 2013.
 
